@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- Build fingerprint from stock ROM -->
-    <string name="config_stockFingerprint" translatable="false">xiaomi/sagit/sagit:8.0.0/OPR1.170623.027/V9.2.3.0.OCAMIEK:user/release-keys</string>
-</resources>

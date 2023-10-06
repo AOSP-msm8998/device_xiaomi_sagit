@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/miku_sagit.mk
+    $(LOCAL_DIR)/aosp_sagit.mk
 
 COMMON_LUNCH_CHOICES := \
-    miku_sagit-user \
-    miku_sagit-userdebug \
-    miku_sagit-eng
+    aosp_sagit-user \
+    aosp_sagit-userdebug \
+    aosp_sagit-eng
